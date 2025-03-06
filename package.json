@@ -14,5 +14,9 @@
   "type": "module",
   "workspaces": [
     "src/icp_workshops_frontend"
-  ]
+  ],
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.11",
+    "tailwindcss": "^4.0.11"
+  }
 }
